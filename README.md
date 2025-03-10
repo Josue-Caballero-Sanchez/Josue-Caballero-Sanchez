@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Josue and I'm I'm currently a 4th year computer science student at Arizona State University with expertise in web development. I have extensive experience with Java, C++, C#, and web development. Feel free to contact me for opportunities or if you have questions!</p>
+<p align="left">My name is Josue and I'm I'm currently a 4th year computer science student at Arizona State University with expertise in web development, Java, C++, and C#. Feel free to contact me for opportunities or if you have questions!</p>
 
 ###
 
@@ -27,7 +27,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
   <img width="20" />
