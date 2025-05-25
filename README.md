@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! My name is Josue and I'm a 22 year old computer scientist located in Glendale, Arizona. I am a recent graduate from Arizona State University and have a strong expertise in web design, Java, C++, C#, and IT. Currently working as an IT Intern with the City of Phoenix Water Department, where I provide technical support using ServiceNow and develop C#/.NET and PowerShell scripts to support internal operations.</p>
+<p align="left">Hi there! My name is Josue and I'm a 22 year old computer scientist located in Glendale, Arizona. I am a recent graduate from Arizona State University and have a strong expertise in web design, Java, C++, C#, and IT. Currently working as an IT Intern with the City of Phoenix Water Department, where I help provide technical support using ServiceNow and develop C#/.NET and PowerShell scripts to support internal operations.</p>
 
 ###
 
