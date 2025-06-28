@@ -11,7 +11,10 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <div>
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+    <p>React</p>
+  </div>
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="16" />
