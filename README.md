@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm a 22-year-old computer scientist located in Glendale, Arizona. I am a recent computer science graduate from Arizona State University with strong expertise in web design, Java, C++, C#, and IT. Currently working as an IT Intern with the City of Phoenix Water Services Department where I provide technical support using ServiceNow, develop PowerShell scripts to support internal operations, and work with the Applications team on database tasks using Oracle SQL.</p>
+<p align="left">Hi there! My name is Josue and I'm a 22-year-old computer scientist located in Glendale, Arizona. I am a recent graduate from Arizona State University with strong expertise in web design, Java, C++, C#, and IT. Currently working as an IT Intern with the City of Phoenix Water Services Department where I provide technical support using ServiceNow, develop PowerShell scripts to support internal operations, and work with the Applications team on database tasks using Oracle SQL.</p>
 
 ###
 
@@ -27,15 +27,17 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="16" />
@@ -43,7 +45,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
 </div>
 
 ###
