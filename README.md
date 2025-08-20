@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! My name is Josue and I'm a 22-year-old computer scientist located in Glendale, Arizona. I am a recent computer science graduate from Arizona State University and have a strong expertise in web design, Java, C++, C#, and IT. Currently working as an IT Intern with the City of Phoenix Water Services Department where I provide technical support using ServiceNow, develop PowerShell scripts to support internal operations, and work with the applications team on database tasks using SQL.</p>
+<p align="left">Hi there! My name is Josue and I'm a 22-year-old computer scientist located in Glendale, Arizona. I am a recent computer science graduate from Arizona State University and have a strong expertise in web design, Java, C++, C#, and IT. Currently working as an IT Intern with the City of Phoenix Water Services Department where I provide technical support using ServiceNow, create PowerShell scripts, work with SQL, and develop Power Apps applications to support internal operations.</p>
 
 ###
 
@@ -29,19 +29,15 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
 
 ###
@@ -53,6 +49,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/josue-caballero-sanchez-8aaab9276/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sanchez684.jc@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
