@@ -31,6 +31,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
