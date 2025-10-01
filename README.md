@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm a 22 year old computer scientist located in Glendale, Arizona. I am a Recent computer science graduate from Arizona State University with a strong foundation in software development and IT. Through academics and professional experience, I developed expertise in web design, Java, C++, C#, and IT support. My recent IT internship strengthened my skills in troubleshooting, automation, and database tasks, preparing me to contribute effectively in technology-driven environments.</p>
+<p align="left">Hi there! I'm a 22 year old computer scientist located in Glendale, Arizona. I am a recent computer science graduate from Arizona State University with a strong foundation in software development and IT. Through academics and professional experience, I developed expertise in web design, Java, C++, C#, and IT support. My recent IT internship strengthened my skills in troubleshooting, automation, and database tasks, preparing me to contribute effectively in technology-driven environments.</p>
 
 ###
 
