@@ -19,25 +19,17 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
 </div>
 
 ###
