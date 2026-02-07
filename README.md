@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm a 22 year old computer science graduate from Arizona State University with a strong foundation in web<br>development and IT. Through academics and professional experience, I developed expertise in web design,<br>Java, C#, and IT support. My current IT Specialist role has strengthened my skills in troubleshooting, system administration, and software development, enabling me to further improve my technical skills.</p>
+<p align="left">Hi there! I'm a 22 year old computer science graduate from Arizona State University with a strong foundation in web development and IT. Through academics and professional experience, I developed expertise in web design, Java, C#, and IT support. My current IT Specialist role has strengthened my skills in troubleshooting, system administration, and software development, enabling me to further improve my technical skills.</p>
 
 ###
 
