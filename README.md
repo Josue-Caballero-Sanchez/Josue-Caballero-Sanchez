@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a full-stack web developer and IT Specialist from Glendale, Arizona. Through my education and professional experience, I've gained experience in software development, troubleshooting, and system administration.
+Hi there! I'm a full-stack web developer and IT specialist from Glendale, Arizona. Through my education and professional experience, I've gained experience in software development, troubleshooting, and system administration.
 
 
 ## 🌐 Socials:
